@@ -1,0 +1,19 @@
+#CancerTL parameters
+##Pretrain parameters
+pretrain_epochs: 10
+pretrain_batchsizes: 10
+layer1_node: 64
+layer2_node: 64
+#loss: 'binary_crossentropy'
+#optimizer: "rmsprop"
+#metrics: ['accuracy']
+
+##Finetune parameters
+target_epochs: 10
+target_batchsizes: 10
+layera_node: 64
+layerb_node: 64
+layerc_node: 64
+#loss: 'binary_crossentropy'
+#optimizer: "rmsprop"
+#metrics: ['accuracy']

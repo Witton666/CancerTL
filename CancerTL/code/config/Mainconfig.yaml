@@ -1,0 +1,5 @@
+#INITIAL SETTINGS
+version: version2
+genral_seed: 0
+StratifiedFold_seed: 0
+TrainValidSplit_seed: 0
