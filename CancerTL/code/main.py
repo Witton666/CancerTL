@@ -5,15 +5,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import StratifiedKFold
 from keras.utils.np_utils import to_categorical
 from CancerTL import *
-from MLP_1v1 import *
-from MLP_1v1_3layer import *
-from MLP_multiclass_model import *
-from MLP_multiclass_model_3layer import *
-from RF_model_baseline_10_fold import *
-from GB_baseline_10_fold import *
-from AdaBoost_baseline_10_fold import *
-from LR_baseline_10_fold import *
-from SVM_baseline_10_fold import *
 import yaml
 import sys
 
