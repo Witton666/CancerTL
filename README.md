@@ -1,6 +1,6 @@
 # CancerTL
 
-<b>Requirements</b>
+<h1>Requirements</h1>
 
 Python 3.8.10 
 
