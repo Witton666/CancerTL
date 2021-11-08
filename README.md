@@ -1,9 +1,9 @@
 # CancerTL
 
-<h1>Requirements</h1>
+<h2>Requirements</h2>
 
-Python 3.8.10 
-
-tensorflow 2.3.0 
-
-keras 2.4.3
+<ul>
+<li>Python 3.8.10 </li> 
+<li>tensorflow 2.3.0  </li>
+<li>keras 2.4.3 </li>
+</ul>
